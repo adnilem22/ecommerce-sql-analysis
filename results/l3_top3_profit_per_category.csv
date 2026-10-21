@@ -1,0 +1,22 @@
+category,product_name,total_profit,profit_rank
+"Beauty & Health","HomePro Beauty Item 415",224698.22,1
+"Beauty & Health","NexGen Beauty Item 313",87726.31,2
+"Beauty & Health","ClearView Beauty Item 324",86733.31,3
+Books,"PrimeLine Books Item 336",16933.06,1
+Books,"PureForm Books Item 240",8877.78,2
+Books,"ZenLife Books Item 454",7643.92,3
+Clothing,"ZenLife Clothing Item 55",566921.43,1
+Clothing,"NexGen Clothing Item 107",157398.07,2
+Clothing,"GlowUp Clothing Item 103",97255.41,3
+Electronics,"ClearView Electronics Item 276",359822.75,1
+Electronics,"FunZone Electronics Item 468",172044.28,2
+Electronics,"CoreBrand Electronics Item 216",159793.77,3
+"Home & Kitchen","FunZone Home Item 467",162445.91,1
+"Home & Kitchen","ZenLife Home Item 247",137757.91,2
+"Home & Kitchen","NovaTech Home Item 472",83059.37,3
+"Sports & Outdoors","GlowUp Sports Item 153",134494.30,1
+"Sports & Outdoors","GlowUp Sports Item 85",112191.04,2
+"Sports & Outdoors","HomePro Sports Item 173",104474.29,3
+"Toys & Games","StyleCo Toys Item 175",50850.97,1
+"Toys & Games","ClearView Toys Item 84",36640.95,2
+"Toys & Games","ActiveGear Toys Item 460",27597.66,3

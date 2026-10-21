@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,country,is_premium,lifetime_revenue
+CUST01713,Elena,Mueller,Italy,True,762417.37
+CUST01068,Sara,Rossi,USA,False,492703.58
+CUST05248,David,Harris,Spain,False,428276.64
+CUST03000,James,Jackson,Spain,False,423129.41
+CUST00785,Sara,Rossi,USA,False,383136.38
+CUST01593,Anna,Dubois,USA,False,230141.54
+CUST04788,Robert,Jackson,Netherlands,False,220571.96
+CUST03425,James,Young,Spain,False,181520.96
+CUST06388,Daniel,Johnson,Canada,False,167589.79
+CUST06260,David,Hall,USA,False,157445.75
